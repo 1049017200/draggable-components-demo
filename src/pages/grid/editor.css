@@ -1,0 +1,16 @@
+.close {
+  float: right;
+}
+.close:hover {
+  cursor: pointer;
+}
+.draggableDiv:hover {
+  border-color: #1890ff;
+  border-width: 1px;
+  border-style: solid;
+}
+.formLabel {
+  text-align: right;
+  padding-right: 10px;
+}
+/*# sourceMappingURL=editor.css.map */
